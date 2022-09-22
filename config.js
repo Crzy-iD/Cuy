@@ -41,12 +41,12 @@ global.wait = '*Tunggu Sebentar ...*'
 global.eror = '*Maaf, Sedang Error*'
 
 //========Url Template Buttons=========//
-global.dtu = 'KennGroup'
-global.urlnya = "https://chat.whatsapp.com/I936MlAcaKt9exRqdbVK2o"
+global.dtu = 'CrzyGroup'
+global.urlnya = "https://chat.whatsapp.com/HqKuOlt67oW6H6OPVuDhf9"
 
 //============= callButtons =============//
 global.dtc = 'Owner Number'
-global.phn = '6281238142144'
+global.phn = '6285814417473'
 
 //============= Games ================//
 global.benar = '_*Benar*_✅'
