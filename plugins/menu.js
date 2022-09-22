@@ -183,7 +183,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       let menukontols = `╭─────────────────⬣
 │   *Hai*, ${name} 👋
 ╰┬──────────────┈
-╭┆⬡ *Tersisa* : ${limit} Limit
+╭┆⬡ *Tersisa* : ${limit} 10
 │┆⬡ *Role* : ${role}
 │┆⬡ *Level* : ${level}
 ╰──────────────┈`
@@ -212,7 +212,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
           { title: 'Pengubah Suara', rowId: `${_p}audio` },
           { title: 'Info', rowId: `${_p}info` },
           { title: 'Others Menu', rowId: `${_p}tanpakategori` },
-          { title: 'Owner Kenn', rowId: `${_p}owner` },
+          { title: 'Owner Crzy', rowId: `${_p}owner` },
         ]
       }
     ]
