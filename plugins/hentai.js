@@ -6,7 +6,7 @@ handler.help = ['bkp', 'bokep']
 handler.tags = ['bebanortu']
 
 handler.command = /^(hentai)$/i
-handler.premium = false
+handler.premium = true
 handler.register = true
 handler.limit = true
 module.exports = handler
