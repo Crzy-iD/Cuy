@@ -39,12 +39,12 @@ const defaultMenu = {
 ├───⭓「 About 」
 │ ⫹⫺ Library: Baileys-Md
 │ ⫹⫺ Language : Javascript
-│ ⫹⫺ HostName: Kenn-Host
+│ ⫹⫺ HostName: Crzy-iD
 │ ⫹⫺ Platform : linux
 │ ⫹⫺ TotalUser: %totalreg
 │ ⫹⫺ Version : 2.0 Beta
 ╰──────⭓
-Note : KennBot V2 Masih Dalam Tahap Beta, Jika Menemukan Bug Langsung Lapor Owner\n
+Note : Crzy-iD Masih Dalam Tahap Beta, Jika Menemukan Bug Langsung Lapor Owner\n
 %readmore`.trim(),
   header: '╭─⭓「 %category 」',
   body: '┆⬡ %cmd %islimit %isPremium',
