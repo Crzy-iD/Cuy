@@ -12,6 +12,6 @@ handler.help = ['xnxxsearch <query>']
 handler.tags = ['bebanortu']
 handler.command = /^(xnxxsearch)$/i
 
-handler.limit = 6
+handler.limit = 3
 
 module.exports = handler
