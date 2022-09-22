@@ -1008,8 +1008,8 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = async (type, m, conn) => {
     let msg = {
-        rowner: `Perintah ini hanya dapat digunakan oleh _*Team Bot Discussion!1!1!*_`,
-        owner: `Perintah ini hanya dapat digunakan oleh _*Team Bot Discussion!1!1!*_`,
+        rowner: `Perintah ini hanya dapat digunakan oleh _*Crzy-iD*_`,
+        owner: `Perintah ini hanya dapat digunakan oleh _*Crzy-iD*_`,
         mods: `Perintah ini hanya dapat digunakan oleh *Moderator*`,
         premium: 'Perintah ini hanya untuk member _*Premium*_ !',
         group: `Perintah ini hanya dapat digunakan di grup!`,
