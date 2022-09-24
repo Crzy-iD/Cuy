@@ -42,7 +42,7 @@ global.eror = '*Maaf, Sedang Error*'
 
 //========Url Template Buttons=========//
 global.dtu = 'Join Group Bot'
-global.urlnya = "https://chat.whatsapp.com/HqKuOlt67oW6H6OPVuDhf9"
+global.urlnya = "https://chat.whatsapp.com/E59oPcLZDxnGVbr7RlCq2D"
 
 //============= callButtons =============//
 global.dtc = 'Owner Number'
