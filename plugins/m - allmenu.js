@@ -44,7 +44,7 @@ const defaultMenu = {
 │ ⫹⫺ TotalUser: %totalreg
 │ ⫹⫺ Version : 2.0 Beta
 ╰──────⭓
-Note : Crzy-iD Masih Dalam Tahap Beta, Jika Menemukan Bug Langsung Lapor Owner\n
+Note : Don't Spam my bot please,I've been banned 3 times\n
 %readmore`.trim(),
   header: '╭─⭓「 %category 」',
   body: '┆⬡ %cmd %islimit %isPremium',
