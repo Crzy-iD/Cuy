@@ -41,7 +41,7 @@ global.wait = '*Tunggu Sebentar ...*'
 global.eror = '*Maaf, Sedang Error*'
 
 //========Url Template Buttons=========//
-global.dtu = 'CrzyGroup'
+global.dtu = 'Join Group Bot'
 global.urlnya = "https://chat.whatsapp.com/HqKuOlt67oW6H6OPVuDhf9"
 
 //============= callButtons =============//
