@@ -32,12 +32,12 @@ module.exports = {
         global.author = global.data.owner
         //global.author = '𝐟𝐚𝐫𝐡𝐚𝐧'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = 'Zen-Bot'
+        global.wm = 'NBPS BOT
         global.colong1 = ''
-        global.colong2 = 'Crzy'
+        global.colong2 = 'NaBil'
         global.kontak2 = [
-        ['6285814417473', 'Crzy-iD', 'Developer', 'Jangan Spam Fitur Ya..', true],
-        ['6285814417473', await this.getName('6281238142144@s.whatsapp.net'), 'Owner', true], 
+        ['6285894957574', 'NaBil', 'Developer', 'Jangan Spam Fitur Ya..', true],
+        ['6285894957574', await this.getName('6281238142144@s.whatsapp.net'), 'Owner', true], 
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
@@ -1008,8 +1008,8 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = async (type, m, conn) => {
     let msg = {
-        rowner: `Perintah ini hanya dapat digunakan oleh _*Crzy-iD*_`,
-        owner: `Perintah ini hanya dapat digunakan oleh _*Crzy-iD*_`,
+        rowner: `Perintah ini hanya dapat digunakan oleh _*NaBil*_`,
+        owner: `Perintah ini hanya dapat digunakan oleh _*NaBil*_`,
         mods: `Perintah ini hanya dapat digunakan oleh *Moderator*`,
         premium: 'Perintah ini hanya untuk member _*Premium*_ !',
         group: `Perintah ini hanya dapat digunakan di grup!`,
