@@ -39,7 +39,7 @@ const defaultMenu = {
 ├───⭓「 About 」
 │ ⫹⫺ Library: Baileys-Md
 │ ⫹⫺ Language : Javascript
-│ ⫹⫺ HostName: Crzy-iD
+│ ⫹⫺ HostName: NaBil
 │ ⫹⫺ Platform : linux
 │ ⫹⫺ TotalUser: %totalreg
 │ ⫹⫺ Version : 2.0 Beta
